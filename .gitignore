@@ -1,0 +1,4 @@
+felix-cache/
+*.iml/
+target/
+.DS_Store
